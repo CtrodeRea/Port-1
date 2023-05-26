@@ -9,7 +9,7 @@
     background-color: #808080;
     position: relative;
     padding: 0 8%;
-    background-image: url(/media/topView.jpg);
+    background-image: url(topView.jpg);
 }
 nav{
     display: flex;
